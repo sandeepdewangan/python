@@ -1,7 +1,8 @@
 # Python Basics
 
 ## Python Basics
-https://github.com/sandeepdewangan/python/blob/main/basic.md
+1. https://github.com/sandeepdewangan/python/blob/main/Python-Basics.md
+2. https://github.com/sandeepdewangan/python/blob/main/basic.md
 
 ## English Thesaurus App
 Search for a word in dict and you will get its meaning.
